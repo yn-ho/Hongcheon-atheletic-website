@@ -1,0 +1,35 @@
+/*individual css configuration*/
+
+.title-text-container {
+
+    margin-top: 100px;
+
+}
+
+.title-text-container :last-child {
+
+    padding-top: 20px;
+
+}
+
+.body--container .main-page-image {
+
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+    box-shadow: 9px 10px 20px 7px rgba(0,0,0,0.11);
+    -webkit-box-shadow: 9px 10px 20px 7px rgba(0,0,0,0.11);
+    -moz-box-shadow: 9px 10px 20px 7px rgba(0,0,0,0.11);
+
+}
+
+.btn-blue {
+
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
